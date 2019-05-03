@@ -1,4 +1,4 @@
 baseURL = "http://docs.smarsh.com/"
 languageCode = "en-us"
 title = "Smarsh Technical Documentation"
-theme = "gohugo-theme-ananke-master"
+theme = "gohugo-theme-ananke"
